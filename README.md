@@ -5,13 +5,9 @@ Portfolio showcasing precision engineering, automation, and control system desig
 
 ## 📄 View My Engineering Portfolio
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1iXcfM1Rfx_33O1tIyVZ6QX6MHqsfK3jb/view" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View Portfolio"/>
-  </a>
-</p>
+📘 [**Click here to open the portfolio (Google Drive)**](https://drive.google.com/file/d/1iXcfM1Rfx_33O1tIyVZ6QX6MHqsfK3jb/view)
 
-<iframe src="https://drive.google.com/file/d/1iXcfM1Rfx_33O1tIyVZ6QX6MHqsfK3jb/preview" width="100%" height="600"></iframe>
+> This repository showcases my **R&D and precision engineering projects**, emphasizing **design optimization, testing, and automation** across manufacturing and product development domains.
 
 
 This repository showcases my **R&D and precision engineering projects**, emphasizing **design optimization, testing, and automation** across manufacturing and product development domains.
